@@ -1,0 +1,6 @@
+/* Write your code here. */
+.thumbnails-list {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+}
